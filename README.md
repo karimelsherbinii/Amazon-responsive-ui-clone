@@ -3,9 +3,11 @@
 Welcome to my App
 
 ## Getting Started
-Short Video  
+## Watch Video on youtube  
+![video](https://youtu.be/M1CYqFynnz0) 
 
-![video](https://youtu.be/M1CYqFynnz0)
+## preview app
+![preview](/preview.gif)
 
 
 Main Screen (1) 
