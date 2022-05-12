@@ -5,9 +5,8 @@ Welcome to my App
 ## Getting Started
 Short Video even uplode Other 
 
-![Short Video](https://github.com/karimelsherbinii/uberApp/blob/master/FullSizeRender.MOV?raw=true)
+![Main Screen](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/1.png?raw=true)
 
-![logo](https://github.com/karimelsherbinii/uberApp/blob/master/images/logo.png?raw=true)
 
 This project is a starting point for a Flutter application.
 
