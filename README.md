@@ -6,7 +6,7 @@ Welcome to my App
 Short Video  
 
 ![video]
-https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/v.mov?raw=true
+https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/v.mov
 
 
 Main Screen (1) 
