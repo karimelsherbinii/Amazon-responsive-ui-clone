@@ -7,7 +7,7 @@ Welcome to my App
 ![video](https://youtu.be/M1CYqFynnz0) 
 
 ## preview app
-![preview](/preview.gif)
+![preview](/p.gif)
 
 
 Main Screen (1) 
