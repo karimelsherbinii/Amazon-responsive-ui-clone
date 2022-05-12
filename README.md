@@ -1,11 +1,14 @@
-# Amazon Clone
+# Amazon Clone (Responsive UI)
 
 Welcome to my App
 
 ## Getting Started
+
+=======
 Short Video (10) 
 
 ![video](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/v.mov?raw=true)
+
 
 
 Main Screen (1) 
@@ -13,6 +16,7 @@ Main Screen (1)
 ![Main Screen](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/1.png?raw=true)
 
 Main Screen (2) 
+
 
 ![Main Screen](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/2.png?raw=true)
 Main Screen (3) 
