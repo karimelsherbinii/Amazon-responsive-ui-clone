@@ -12,6 +12,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
 import '../../componants/SignIn/signIn_reminder.dart';
+import '../../componants/custom_pageview.dart';
 import '../../utils/colors.dart';
 import '../widgets/categories.dart';
 import '../widgets/category_show2.dart';
@@ -59,10 +60,17 @@ class _HomeBodyState extends State<HomeBody> {
                         sigmaX: 5,
                         sigmaY: 10,
                       ),
-                      child: Image.asset(
-                        'assets/images/ad1.jpg',
-                        // scale: 1,
-                      ),
+                      child: CustomPageView(
+                          // imagesList: const [
+                          //   'assets/images/ad1.jpg',
+                          //   'assets/images/ad2.jpg',
+                          //   'assets/images/ad3.jpg',
+                          //   'assets/images/ad4.jpg',
+                          //   'assets/images/ad5.jpg',
+                          // ],
+
+                          // scale: 1,
+                          ),
                     ),
                   ),
                 ),
