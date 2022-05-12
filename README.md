@@ -26,15 +26,19 @@ Main Screen (6)
 Main Screen (7) 
 
 ![Main Screen](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/7.png?raw=true)
-Main Screen (8) 
 
-![Main Screen](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/8.png?raw=true)
-Main Screen (9) 
 
-![Main Screen](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/9.png?raw=true)
-Main Screen (10) 
+Profile Screen (8) 
 
-![Main Screen](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/10.png?raw=true)
+![Profile](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/8.png?raw=true)
+
+Shop Screen (9) 
+
+![Shop Screen](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/9.png?raw=true)
+
+Menu Screen (10) 
+
+![Menu Screen](https://github.com/karimelsherbinii/Amazon-responsive-ui-clone/blob/main/AmazonUiResponsiveClone/10.png?raw=true)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
